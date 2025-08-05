@@ -6,6 +6,7 @@ function App() {
     <>
       <Header />
       <div className="container">
+        <div></div>
         <Main />
       </div>
     </>
